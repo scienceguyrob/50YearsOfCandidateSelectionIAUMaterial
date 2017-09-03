@@ -1,6 +1,7 @@
 # Supporting Material: Fifty Years of Candidate Pulsar Selection - What next? (version 1.0)
 This notebook explores the main issues which reduce the accuracy of Machine Learning (ML) algorithms, used for candidate classification. It was written to support a talk delivered at IAU Symposium No. 337, Pulsar Astrophysics: The Next Fifty Years (2017).
 
+[![DOI](https://zenodo.org/badge/102269399.svg)](https://zenodo.org/badge/latestdoi/102269399)
 
 ## Author: Rob Lyon
 ## Email : robert.lyon@manchester.ac.uk
